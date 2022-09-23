@@ -1,0 +1,8 @@
+.container1 {
+    height: 100%;
+    font-size: larger;
+    background-image: url("../Images/sellscrap.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
